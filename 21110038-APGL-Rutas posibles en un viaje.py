@@ -2,7 +2,7 @@
 #21110038
 #7E1
 #Inteligencia Artificial
-#Centro de Enseñanza Tecnica Industrial 
+#Centro de Enseñanza Tecnica Industrial  
 
 from collections import deque
 
